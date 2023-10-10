@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696811407 source:c:\users\crystal\documents\c++\shutdown\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<string>
+	<limits>
+
